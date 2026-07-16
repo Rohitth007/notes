@@ -8,7 +8,7 @@
 - [ ] fix: rotation controller:
   - [ ] localisation lost (next)
   - [ ] throttle (next)
-  - [ ] points threshold higher? (next)
+  - [ ] points threshold  higher? (next)
 ---
 
 - [ ] low: move channel ringbuffer to nav common
