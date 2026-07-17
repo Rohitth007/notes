@@ -1,0 +1,3 @@
+- [ ] jerk based modelling in MPC
+- [ ] cmpcc, safe flight corridors
+- [ ] modelling time delay

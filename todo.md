@@ -4,6 +4,7 @@
   - [ ] weird odom jump (sarvesh)
   - [ ] high decel not working (ahmedabad robot hit person)
 - [ ] cloudini sensor drivers
+- [ ] velocity smoother issues
 - [ ] fix: rotation controller:
   - [ ] localisation lost
   - [ ] throttle
