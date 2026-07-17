@@ -1,0 +1,5 @@
+- [ ] SMAC flip goal
+- [ ] On spot rotation
+- [ ] wall avoidance before rotate
+- [ ] remove near wall data
+- [ ] gaussian fitting

@@ -1,0 +1,4 @@
+- [ ] learn rust
+- [ ] learn simd
+- [ ] learn optimization
+- [ ] telegram fin

@@ -4,23 +4,9 @@
   - [ ] weird odom jump (sarvesh)
   - [ ] high decel not working (ahmedabad robot hit person)
 - [ ] cloudini sensor drivers
-- [ ] sim testing
 - [ ] fix: rotation controller:
-  - [ ] localisation lost (next)
-  - [ ] throttle (next)
-  - [ ] points threshold  higher? (next)
----
-
-- [ ] low: move channel ringbuffer to nav common
-- [ ] Narrow Corridor
-  - [ ] SMAC flip goal
-  - [ ] On spot rotation
-  - [ ] wall avoidance before rotate
-  - [ ] remove near wall data
-  - [ ] gaussian fitting
-- [ ] check cmd vel issue
-  - [ ] no cmd vel output
+  - [ ] localisation lost
+  - [ ] throttle
+  - [ ] points threshold higher?
 - [ ] Use blackboard like NavDataBus
-- [ ] learn rust
-- [ ] telegram
-- [ ] rexi
+- [ ] low: move channel ringbuffer to ppmt nav common
