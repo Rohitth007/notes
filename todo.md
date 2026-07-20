@@ -12,3 +12,8 @@
 - [ ] Use blackboard like NavDataBus
 - [ ] low: move channel ringbuffer to ppmt nav common
 - [ ] need to check corridor shrinking for 3D maps
+- [ ] compress snapshot topics:
+  - [ ] scan
+  - [ ] box filter
+  - [ ] robot viz marker
+  - [ ] obs_det/debug_bottom_scan
