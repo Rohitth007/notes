@@ -3,3 +3,4 @@
 - [ ] wall avoidance before rotate
 - [ ] remove near wall data
 - [ ] gaussian fitting
+- [ ] [evo](https://github.com/MichaelGrupp/evo) rpe between localisation and odom

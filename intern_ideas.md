@@ -1,5 +1,15 @@
 - [ ] simulation issues notion page
 - [ ] zenoh vs dds
-- [ ] auto release testing
-- [ ] inference testing on qualcomm
-- [ ] webRTC based live robot data
+- [ ] on robot auto release testing
+- [ ] inference testing on qualcomm npu
+- [ ] prism commands through opstoolbox
+- [ ] robot dev stats report from tracker messages on workstation
+- [ ] rosbag analyser:
+  - hidden tressure notion page
+  - special filters for RAM, collisions, etc
+  - message time gaps, pcl size anomalies
+  - [ros2peek](https://github.com/ktro2828/rosbag2peek)
+  - [rosbag timing inspector](https://github.com/MOLAorg/rosbag_timing_inspector/tree/develop/)
+  - [rosbag ressurector](https://github.com/vikramnagashoka/rosbag-resurrector#performance-contract)
+  - [bagx](https://github.com/rsasaki0109/bagx)
+- [ ] webRTC based live robot data for pointcloud and images
