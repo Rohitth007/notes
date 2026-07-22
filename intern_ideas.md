@@ -2,6 +2,7 @@
 - [ ] simulation issues notion page
 - [ ] zenoh vs dds
 - [ ] on robot auto release testing
+- [ ] panther lake nuc testing
 - [ ] inference testing on qualcomm npu
 - [ ] prism commands through opstoolbox
 - [ ] robot dev stats report from tracker messages on workstation
