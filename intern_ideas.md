@@ -1,1 +1,5 @@
-- [ ] sim testing
+- [ ] simulation issues notion page
+- [ ] zenoh vs dds
+- [ ] auto release testing
+- [ ] inference testing on qualcomm
+- [ ] webRTC based live robot data
