@@ -5,12 +5,15 @@
 - [ ] gaussian fitting
 - [ ] [evo](https://github.com/MichaelGrupp/evo) rpe between localisation and odom
 
-- [ ] approx goal reached
-- [ ] reattach to nudged goal?
-- [ ] no approx goal? in reattach atleast
-- [ ] is pose valid at single point?
+---
+
+- [x] reduce smac approx tolerance?
+- [x] reattach to nudged goal?
+- [ ] no approx solution?
+  - [x] in reattach atleast
+- [ ] is pose valid thresh > 1?
 - [ ] do multiple collision checks even in avoidance path?
-- [ ] increase nudging?
+- [x] increase nudging?
 - [ ] should we get all sensor data in baselink first then transform to map?
 - [ ] don't check untill end of reattach straight line
-- [ ] don't check last pose is isPathVectorInCollision
+- [x] don't check last pose is isPathVectorInCollision
