@@ -15,6 +15,6 @@
 - [ ] do multiple collision checks even in avoidance path?
 - [x] increase nudging?
 - [ ] should we get all sensor data in baselink first then transform to map?
-- [ ] don't check untill end of reattach straight line
+- [x] don't check untill end of reattach straight line
 - [x] don't check last pose is isPathVectorInCollision
 - [ ] checking path and current path dont match after avoidance
