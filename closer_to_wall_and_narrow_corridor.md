@@ -11,6 +11,7 @@
 - [x] reattach to nudged goal?
 - [ ] no approx solution?
   - [x] in reattach atleast
+  - [ ] if nudged don't accept approx solutions in replan?
 - [ ] is pose valid thresh > 1?
 - [ ] do multiple collision checks even in avoidance path?
 - [x] increase nudging?
@@ -18,3 +19,4 @@
 - [x] don't check untill end of reattach straight line
 - [x] don't check last pose is isPathVectorInCollision
 - [ ] checking path and current path dont match after avoidance
+- [x] path planning: tune converge into wall
