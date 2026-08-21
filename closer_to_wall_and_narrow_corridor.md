@@ -20,3 +20,6 @@
 - [x] don't check last pose is isPathVectorInCollision
 - [ ] checking path and current path dont match after avoidance
 - [x] path planning: tune converge into wall
+- [x] path planning: spiral out
+- [ ] slow angular speed near wall? helps with alignment
+
