@@ -23,4 +23,6 @@
 - [x] path planning: spiral out
 - [ ] slow angular speed near wall? helps with alignment
 - [ ] high speed mapping in 1cm?
+- [ ] robot moves if in collision and planning fails
+- [ ] planning timesout in 1cm
 
