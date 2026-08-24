@@ -22,4 +22,5 @@
 - [x] path planning: tune converge into wall
 - [x] path planning: spiral out
 - [ ] slow angular speed near wall? helps with alignment
+- [ ] high speed mapping in 1cm?
 
