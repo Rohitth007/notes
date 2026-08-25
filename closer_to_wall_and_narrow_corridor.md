@@ -25,4 +25,4 @@
 - [ ] high speed mapping in 1cm?
 - [ ] robot moves if in collision and planning fails
 - [ ] planning timesout in 1cm
-
+- [ ] dstar inflation bug in local planning 
