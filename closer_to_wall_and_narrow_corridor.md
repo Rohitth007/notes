@@ -27,3 +27,6 @@
 - [ ] planning timesout in 1cm
 - [ ] dstar inflation bug in local planning 
 - [ ] robot keeps moving while reattach until timeout (4secs)!!
+- [ ] check last 2 sim bags
+- [ ] improve nudging logic? same as dstar?
+- [ ] can we use logit?
