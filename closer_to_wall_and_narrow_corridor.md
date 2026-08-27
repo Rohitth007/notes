@@ -22,11 +22,12 @@
 - [x] path planning: tune converge into wall
 - [x] path planning: spiral out
 - [ ] slow angular speed near wall? helps with alignment
-- [ ] high speed mapping in 1cm?
-- [ ] robot moves if in collision and planning fails
-- [ ] planning timesout in 1cm
-- [ ] dstar inflation bug in local planning 
-- [ ] robot keeps moving while reattach until timeout (4secs)!!
-- [ ] check last 2 sim bags
+- [x] high speed mapping in 1cm?
+- [x] robot moves if in collision and planning fails
+- [x] planning timesout in 1cm
+- [x] dstar inflation bug in local planning 
+- [x] robot keeps moving while reattach until timeout (4secs)!!
 - [ ] improve nudging logic? same as dstar?
 - [ ] can we use logit?
+- [ ] why are loops forming
+- [ ] sor for sensors, noise removal
