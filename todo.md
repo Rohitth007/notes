@@ -10,3 +10,4 @@
   - [ ] points threshold higher?
 - [ ] Use blackboard like NavDataBus
 - [ ] low: move channel ringbuffer to ppmt nav common
+- [ ] electronics team issues
